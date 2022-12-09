@@ -21,3 +21,4 @@ jobs:
     - name: Install dependencies
       run: |
         conda create -n titanic python=3.10
+        conda activate titanic
