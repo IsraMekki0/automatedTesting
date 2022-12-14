@@ -4,3 +4,4 @@ results/
 *.egg-info
 *.pyc
 *.nbconvert.ipynb
+dist/
