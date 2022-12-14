@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "auto_testing_ice"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Christina Elisabeth Isra", email="author@example.com" },
 ]
@@ -20,4 +20,4 @@ dependencies = ["pandas"]
 
 [project.urls]
 "Homepage" = "https://github.com/IsraMekki0/automatedTesting/tree/main"
-"Bug Tracker" = "https://github.com/nickdelgrosso/automatedTesting/issues"
+"Bug Tracker" = "https://github.com/IsraMekki0/automatedTesting/tree/main"
