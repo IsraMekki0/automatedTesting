@@ -16,9 +16,8 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+dependencies = ["pandas"]
 
 [project.urls]
 "Homepage" = "https://github.com/IsraMekki0/automatedTesting/tree/main"
 "Bug Tracker" = "https://github.com/nickdelgrosso/automatedTesting/issues"
-
-dependencies = ["pandas"]
